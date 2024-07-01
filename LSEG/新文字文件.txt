@@ -3,3 +3,4 @@
 憑證API 已在 20240626 寄出
 hashKeyNo >> 16
 hashKey >> Bond
+ECIP 已在20240522 寄出
